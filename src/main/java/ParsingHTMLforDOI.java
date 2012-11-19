@@ -24,7 +24,8 @@ public class ParsingHTMLforDOI {
                 sb.append(line);
                 sb.append("\n");
                 //System.out.println("Processing line: " + line);
-
+                if (!line.startsWith("//"))
+                {
                 if (line.startsWith("doi:"))
                 {
                     //System.out.println(doi);
@@ -58,6 +59,7 @@ public class ParsingHTMLforDOI {
 
                 //System.out.println("Resource: " + htmlGet);
                 AccessCrossRefDOI.accessDOI(doi);
+                }
                 line = br.readLine();
 
             }

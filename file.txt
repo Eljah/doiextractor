@@ -1,3 +1,5 @@
+doi:10.1021/jo010527%2B
+doi:10.1021/jo010527+
 10.1351/pac200577122061
 http://adsabs.harvard.edu/abs/1986PhRvB..33.2056G
 http://pubs.acs.org/doi/abs/10.1021/ja805655b
@@ -17,7 +19,7 @@ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4865786&url=http%3A%2F%2Fi
 http://www.sciencedirect.com/science/article/pii/S0375674203001821
 doi:10.1016/j.tetasy.2005.05.042
 http://dx.doi.org/10.1016/S0957-4166(00)80435-8
-doi:10.1021/jo010527%2B
+//doi:10.1021/jo010527%2B
 10.1351/pac200577122061
 http://adsabs.harvard.edu/abs/1986PhRvB..33.2056G
 http://pubs.acs.org/doi/abs/10.1021/ja805655b
